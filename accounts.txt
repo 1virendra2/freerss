@@ -1,1 +1,6 @@
-
+# Add one X/Twitter handle per line (with or without @)
+# Lines starting with # are ignored
+# Example:
+ elonmusk
+# naval
+# sundarpichai
